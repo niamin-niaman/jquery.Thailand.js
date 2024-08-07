@@ -323,7 +323,7 @@ $.Thailand = function (options) {
     });
 };
 $.Thailand.defaults = {
-    database: 'https://earthchie.github.io/jquery.Thailand.js/jquery.Thailand.js/database/db.json',
+    database: 'https://niamin-niaman.github.io/jquery.Thailand.js/jquery.Thailand.js/database/db.json',
     database_type: 'auto', // json or zip; any other value will be ignored and script will attempt to evaluate the type from file extension instead.
     zip_worker_path: false, // path to zip worker folder e.g. './jquery.Thailand.js/dependencies/zip.js/'; Leave it to false unless you found any error.
     autocomplete_size: 20,
